@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lighten Up</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Lighten Up</h1>
+    <div id="menu">
+      <form action="">
+        <label for="size">Choose your level:</label>
+        <select name="level" id="level">
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="difficult">Extreme</option>
+        </select>
+        <hr>
+        <label for="player">Player's name:</label>
+        <input type="text" id="player" />
+        <hr>
+        <input type="button" id="start" value="Játék indítása!" />
+      </form>
+    </div>
+    <div id="game" hidden></div>
+    <div id="newGame" hidden>
+      <h1>Woohoo! You won!</h1>
+      <input type="button" id="newBtn" value="Új játék indítása" />
+    </div>
+    <hr>
+    <div id="passedTimeDiv" hidden>
+      Time passed: <span id="passedTime">00:00</span>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
