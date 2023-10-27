@@ -4,7 +4,7 @@ Lighten Up is a simple game created with HTML, CSS and JavaScript.
 
 ## Description
 
-King Luminar would like his castle to be the brightest around the world - there is only one problem: he is a bit cheap. He wants to use as little amount of lightbulbs as possible and he needs your help to achieve this. Unfortunately, the castle has lots of nooks and cracks - you need to light up all of the corridors, but don't waste the expensive bulbs!
+King Luminar would like his castle to be the brightest around the world - there is only one problem: he is a bit cheap. He wants to use as little amount of lightbulbs as possible and he needs your help to achieve this. Unfortunately, the castle has lots of nooks and crannies - you need to light up all of the corridors, but don't waste the expensive bulbs!
 
 ## How To Play
 
