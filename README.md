@@ -1,6 +1,6 @@
 # Lighten Up
 
-Lighten Up is a simple game created with HTML, CSS and JavaScript.
+Lighten Up is a simple game created in HTML, CSS and JavaScript.
 
 ## Description
 
